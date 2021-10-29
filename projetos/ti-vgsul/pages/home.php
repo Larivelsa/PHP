@@ -30,8 +30,10 @@
     <div class="carousel-item">
       <img src="../static/img/carrossel/lei.png" class="d-block w-100 imagem-carrossel " alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <h5 class="legenda-carrossel">Legislação Digital</h5>
-        <p class="legenda-carrossel">Confira as leis e decretos municipais relacionados à Tecnologia da Informação.</p>
+        <a class="link-carrossel" href="legislacao.php">
+          <h5 class="legenda-carrossel">Legislação Digital</h5>
+          <p class="legenda-carrossel">Confira as leis e decretos municipais relacionados à Tecnologia da Informação.</p>
+        </a>
       </div>
     </div>
     <div class="carousel-item">

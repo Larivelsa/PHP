@@ -12,9 +12,22 @@
     <?php include "nav.php"; ?>
 
     <div class="container container-basico">
-      <h6>Lista de e-mails institucionais individuais da Prefeitura Municipal de Vargem Grande do Sul</h6>
-      <i class="fa fa-list-alt" aria-hidden="true"></i> <a href="https://docs.google.com/spreadsheets/d/1LL9LgOwtFtxgAGIjdUApb8JKpEU8KMUGHFZDnj_wqvA/edit?usp=sharing">Acesse a planilha</a>
+
+
+
+    <div class="card">
+      <div class="card-header">
+      Leis e Decretos que dispõem sobre Tecnologia da Informação no âmbito do município
+      </div>
+      <ul class="list-group list-group-flush">
+        <li class="list-group-item"><i class="fa fa-gavel" aria-hidden="true"></i> <a href="leis.php">Leis</a></li>
+        <li class="list-group-item"><i class="fa fa-gavel" aria-hidden="true"></i> <a href="decretos.php">Decretos</a></li>
+      </ul>
     </div>
 
+      <h6></h6>
+      
+      
+    </div>
 </body>
 </html>

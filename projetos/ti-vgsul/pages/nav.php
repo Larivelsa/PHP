@@ -32,7 +32,7 @@
           </ul>
         </li>
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <a class="nav-link dropdown-toggle" href="legislacao.php" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Legislação de TI
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -57,9 +57,9 @@
             Controles
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <li><a class="dropdown-item" href="insumos-impressao.php">Insumos de Impressão</a></li>
-            <li><a class="dropdown-item" href="laudos.php">Laudos</a></li>
-            <li><a class="dropdown-item" href="inventario.php">Inventário</a></li>
+            <li><a class="dropdown-item" href="https://docs.google.com/forms/d/e/1FAIpQLSc_gb7DcQ3Ep9H-S5OPzgvNl84Sg2hcRhhLYiSTA-ytSJ9M4g/viewform">Insumos de Impressão</a></li>
+            <li><a class="dropdown-item" href="https://docs.google.com/forms/d/e/1FAIpQLSdrU1iphww6Av1sMoi2Y_AxMxdrtFJJfFVRz99s2szH3BQ3SQ/viewform">Inventário</a></li>
+            <li><a class="dropdown-item" href="https://drive.google.com/drive/u/1/folders/1d68jbbaRx0i1uQj7C2OWy2V5OupxbfKy">Laudos</a></li>
           </ul>
         </li>
         <li class="nav-item">

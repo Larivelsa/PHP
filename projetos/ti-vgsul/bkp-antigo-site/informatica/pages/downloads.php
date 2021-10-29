@@ -12,9 +12,15 @@
     <?php include "nav.php"; ?>
 
     <div class="container container-basico">
-      <h6>Lista de e-mails institucionais individuais da Prefeitura Municipal de Vargem Grande do Sul</h6>
-      <i class="fa fa-list-alt" aria-hidden="true"></i> <a href="https://docs.google.com/spreadsheets/d/1LL9LgOwtFtxgAGIjdUApb8JKpEU8KMUGHFZDnj_wqvA/edit?usp=sharing">Acesse a planilha</a>
+      <h6>Downloads</h6>
+      <ul class="list-group list-group-flush" aria-label="Fontes ecológicas para documentos">
+      <li class="list-group-item">An item</li>
+      <li class="list-group-item">A second item</li>
+      <li class="list-group-item">A third item</li>
+      <li class="list-group-item">A fourth item</li>
+      <li class="list-group-item">And a fifth one</li>
+    </ul>
+      <i class="fa fa-paper-plane-o" aria-hidden="true"></i> <a href="https://docs.google.com/forms/d/e/1FAIpQLSfJQzymHsBpG5sYOQDT_bawFa0yv7zMR1SpPB8NkHHGO_t0PQ/viewform">Reclamação de Insumos de Impressão adquiridos por processo licitatório</a>
     </div>
-
 </body>
 </html>

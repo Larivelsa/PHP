@@ -13,30 +13,19 @@
     
 
 		<div class="container container-basico">
-			<h3>Contato</h3>
-			<div class="panel panel-default">
-			<!--<div class="panel-heading">Contato</div>-->
-				<div class="panel-body">
-				<p><span class="glyphicon glyphicon-envelope"></span> prodav@vgsul.sp.gov.br</p>
-				<p><span class="glyphicon glyphicon-earphone"></span> (19) 3641-9039 | (19) 3641-9000</p>
-				<p><span class="glyphicon glyphicon-home"></span> Praça Washington Luiz, nº 643 - Centro - Vargem Grande do Sul-SP, CEP 13.880-000</p>
-				</div>
-		  </div>
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item"><strong>Contato da equipe de TI</strong></li>
+				<li class="list-group-item">Ricardo Vagner de Lima <i class="fa fa-envelope-o" aria-hidden="true"></i> ricardo.lima@vgsul.sp.gov.br</li>
+				<li class="list-group-item">Júlio César Morales <i class="fa fa-envelope-o" aria-hidden="true"></i> julio.morales@vgsul.sp.gov.br</li>
+				<li class="list-group-item">Larissa Velozo Sabiá <i class="fa fa-envelope-o" aria-hidden="true"></i> larissa.sabia@vgsul.sp.gov.br</li>
+				<li class="list-group-item">Willian César da Silva <i class="fa fa-envelope-o" aria-hidden="true"></i> willian.silva@vgsul.sp.gov.br</li>
+				<li class="list-group-item">
+					<address>
+					Praça Washington Luiz, nº 643 - Centro - CEP 13.880-000, Vargem Grande do Sul-SP   <i class="fa fa-phone" aria-hidden="true"></i> (19) 3641-9000 ou 3641-9039
+					</address>
+				</li>
+			</ul>
 		</div>
-		
-		<div class="container">
-			<h3>Membros da equipe de TI</h3>
-			<div class="panel panel-default">
-			<!--<div class="panel-heading">Contato</div>-->
-				<div class="panel-body">
-				<p>Ricardo Vagner de Lima</p>
-				<p>Júlio César Morales</p>
-				<p>Larissa Velozo Sabiá</p>
-				<p>Willian César da Silva</p>
-				</div>
-		  </div>
-		</div>	
-
   </body>
 </html>
 
