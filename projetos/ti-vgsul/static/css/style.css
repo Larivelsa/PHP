@@ -67,15 +67,6 @@
 
 @media only screen and (max-width: 1000px) {
   .brasao-img{
-    width: 25vh;
-    height: auto;
-    transition: 1s;
-    opacity: 0.7;
-  }
-}
-
-@media only screen and (max-width: 800px) {
-  .brasao-img{
     width: 30vh;
     height: auto;
     transition: 1s;
@@ -86,7 +77,7 @@
 
 @media only screen and (max-width: 600px) {
   .brasao-img{
-    width: 35vh;
+    width: 25vh;
     height: auto;
     transition: 1s;
     opacity: 0.7;
