@@ -56,6 +56,11 @@
   align-items: center;
 }
 
+.container-basico{
+  padding-top: 3vh;
+  width: 100vw;
+}
+
 .slide-home{
   background-color: rgb(0, 0, 0);
 }
@@ -81,7 +86,7 @@
 
 @media only screen and (max-width: 600px) {
   .brasao-img{
-    width: 40vh;
+    width: 35vh;
     height: auto;
     transition: 1s;
     opacity: 0.7;

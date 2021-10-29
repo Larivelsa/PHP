@@ -8,9 +8,7 @@
       <meta name="viewport" content="width=device-width, charset=utf-8 initial-scale=1" http-equiv="Content-Type">
   </head>
   <body>
-    <?php
-      include "nav.php";
-    ?>
+    <?php include "nav.php";?>
 
 
   </body>

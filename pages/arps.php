@@ -8,10 +8,12 @@
       <meta name="viewport" content="width=device-width, charset=utf-8 initial-scale=1" http-equiv="Content-Type">
   </head>
   <body>
-    <?php
-      include "nav.php";
-    ?>
-<div class="accordion" id="accordionExample">
+    <?php include "nav.php";?>
+
+
+    <div class="container container-basico">
+    <h6>Atas de Registro de Preços de itens de informática</h6>
+    <div class="accordion" id="accordionExample">
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingOne">
       <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
@@ -20,7 +22,8 @@
     </h2>
     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-      <p><strong>ABERTA </strong><a href="https://docs.google.com/spreadsheets/d/1LAEA0ohU9cWLbZg1jmnpXxF5yyWLy0oLmWt1nO4qr8k/edit?usp=sharing"> Atas de Registro de Preços 010/2021 - Equipamentos de informática</a></p>
+      <p><span class="badge bg-success">Aberta</span> <a href="https://drive.google.com/file/d/1AJNs-YvgnCBG0Psz99AJTFkDGxXp7-TT/view"> Atas de Registro de Preços 023/2021 - Equipamentos de informática</a></p>
+      <p><span class="badge bg-success">Aberta</span> <a href="https://docs.google.com/spreadsheets/d/1LAEA0ohU9cWLbZg1jmnpXxF5yyWLy0oLmWt1nO4qr8k/edit?usp=sharing"> Atas de Registro de Preços 010/2021 - Equipamentos de informática</a></p>
       </div>
     </div>
   </div>
@@ -32,17 +35,15 @@
     </h2>
     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        <p><strong>FECHADA </strong><a href="https://drive.google.com/file/d/1nRwIjVDKQ5ha911Ed_0NVe145OIheyRd/view">Ata de Registro de Preços 044/2020 - Insumos de impressão</a></p>
+        <p><span class="badge bg-success">Aberta</span> <a href="https://drive.google.com/file/d/1nRwIjVDKQ5ha911Ed_0NVe145OIheyRd/view">Ata de Registro de Preços 061/2020 - Insumos de impressão</a></p>
+        <p><span class="badge bg-secondary">Encerrada</span> <a href="https://drive.google.com/file/d/1nRwIjVDKQ5ha911Ed_0NVe145OIheyRd/view">Ata de Registro de Preços 044/2020 - Insumos de impressão</a></p>
       </div>
     </div>
   </div>
-
   </div>
-</div>
+  </div>
 
-
-
-  </body>
+</body>
 </html>
 
 

@@ -21,8 +21,10 @@
     <div class="carousel-item active">
       <img src="../static/img/carrossel/email.png" class="d-block w-100 imagem-carrossel " alt="...">
       <div class="carousel-caption d-none d-md-block">
+      <a class="link-carrossel" href="https://docs.google.com/spreadsheets/d/1LL9LgOwtFtxgAGIjdUApb8JKpEU8KMUGHFZDnj_wqvA/edit?usp=sharing">
         <h5 class="legenda-carrossel">Endereços Eletrônicos</h5>
         <p class="legenda-carrossel">Veja a lista de endereços eletrônicos institucionais individuais.</p>
+      </a>
       </div>
     </div>
     <div class="carousel-item">

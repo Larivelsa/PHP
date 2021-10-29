@@ -12,7 +12,7 @@
     ?>
     
 
-		<div class="container">
+		<div class="container container-basico">
 			<h3>Contato</h3>
 			<div class="panel panel-default">
 			<!--<div class="panel-heading">Contato</div>-->
