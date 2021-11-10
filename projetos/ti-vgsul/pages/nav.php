@@ -4,6 +4,8 @@
 <link rel="stylesheet" type="text/css" href="../static/css/style.css">
 <script src="https://use.fontawesome.com/daf4f244f1.js"></script>
 
+
+
 <div class="container-fluid">
 <div class="container-centro">
   <p><img src="../static/img/brasao-sem-fundo.png" class="img-fluid brasao-img" alt="Brasão da Prefeitura de Vargem Grande do Sul"></p>

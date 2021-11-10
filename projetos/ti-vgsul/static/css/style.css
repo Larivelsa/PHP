@@ -65,6 +65,11 @@
   background-color: rgb(0, 0, 0);
 }
 
+.rodape{
+  margin-top: 1vh;
+  background-color: #fff;
+}
+
 @media only screen and (max-width: 1000px) {
   .brasao-img{
     width: 30vh;
